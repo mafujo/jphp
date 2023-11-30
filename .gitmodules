@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/jphp-compiler/docs.git
+[submodule "packager"]
+	path = packager
+	url = https://github.com/mafujo/jppm-packager

@@ -1,5 +1,0 @@
-# this file used when -profile=prod in cmd args
-
-app:
-  jvm-args:
-    - '-Xms64m'

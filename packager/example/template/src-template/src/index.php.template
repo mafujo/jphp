@@ -1,5 +1,0 @@
-<?php
-
-echo "Hello! My name is: {{name}}\n";
-echo "I`m: {{description}}\n";
-echo "My version: {{version}}\n";
